@@ -4,5 +4,5 @@
 /**
  * 
  */
-module ProgOrientObj {
+module JogoDeCombate {
 }
